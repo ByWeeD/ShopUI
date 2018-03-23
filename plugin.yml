@@ -1,8 +1,8 @@
-name: EasyShop
+name: ShopUI
 main: EasyShop\Main
 version: 0.0.1
 api: [3.0.0-ALPHA8, 3.0.0-ALPHA9]
-author: Potatoe
+author: ByWeeD
 description: By Stuff With A GUI
 commands:
  shop:
